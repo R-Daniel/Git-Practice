@@ -1,0 +1,24 @@
+{
+  "name": "git-practice",
+  "version": "1.0.0",
+  "description": "Practice for Git with TS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc source/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/R-Daniel/Git-Practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/R-Daniel/Git-Practice/issues"
+  },
+  "homepage": "https://github.com/R-Daniel/Git-Practice#readme",
+  "dependencies": {
+    "@types/node": "^12.7.11",
+    "typescript": "^3.6.3"
+  }
+}
